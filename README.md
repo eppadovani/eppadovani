@@ -1,13 +1,16 @@
 <h1 align="center">Hey you <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Enzo</h1>
 <h3 align="center">Computer Engineering student at PUC - Campinas</h3>
 <p align="center"><code>Enthusiast of web development and UI/UX design.</code></p>
+<br></br>
 
  <div align="center">
     <a href="https://github.com/eppadovani">
     <img src="https://github-readme-stats.vercel.app/api?username=eppadovani&title_color=A970FF&show_icons=true&icon_color=A970FF"/>
+     <br></br>
+    <img height="163em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eppadovani&layout=compact&langs_count=7&title_color=A970FF"/>
 </div>
 
-
+<br></br>
 
 
 <div align="center"><br>

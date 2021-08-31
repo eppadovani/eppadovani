@@ -5,7 +5,6 @@
  <div align="center">
     <a href="https://github.com/eppadovani">
     <img src="https://github-readme-stats.vercel.app/api?username=eppadovani&title_color=A970FF&show_icons=true&icon_color=A970FF"/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eppadovani&langs_count=7&title_color=A970FF"/>
 </div>
 
 

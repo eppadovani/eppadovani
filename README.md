@@ -2,14 +2,12 @@
 <h3 align="center">Computer Engineering student at PUC - Campinas</h3>
 <p align="center"><code>Enthusiast of web development and UI/UX design.</code></p>
 
-
-<!--  [![Enzo's GitHub stats](https://github-readme-stats.vercel.app/api?username=eppadovani&title_color=A970FF&show_icons=true&icon_color=A970FF)](https://github.com/eppadovani/github-readme-stats)-->
-  
  <div align="center">
+    <a href="https://github.com/eppadovani">
     <img src="https://github-readme-stats.vercel.app/api?username=eppadovani&title_color=A970FF&show_icons=true&icon_color=A970FF"/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eppadovani&langs_count=7&title_color=A970FF"/>
+    <!--<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eppadovani&langs_count=7&title_color=A970FF"/>-->
 </div>
-<!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eppadovani)](https://github.com/eppadovani/github-readme-stats)-->
+
 
 
 
